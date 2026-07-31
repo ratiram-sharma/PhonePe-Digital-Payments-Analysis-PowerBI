@@ -39,7 +39,24 @@ actionable business insights from 300K+ transactions.
 - Data Modeling — Star Schema
 
 ##  Dashboard Screenshots
-![Dashboard Overview](screenshots/dashboard_page1.png)
+
+![PhonePe Analysis Dashboard](PhonePe%20Dashboard%20Analysis%20Screenshots/PhonePe%20Analysis%20Dashboard.png.png)
+
+![Final Report Dashboard](PhonePe%20Dashboard%20Analysis%20Screenshots/Final%20Report%20Dashboard.png.png)
+
+![Drillthrough Analysis](PhonePe%20Dashboard%20Analysis%20Screenshots/Drillthrough%20Analysis.png.png)
+
+![Failed Transaction Dashboard](PhonePe%20Dashboard%20Analysis%20Screenshots/Failed%20Transaction%20Dashboard.png.png)
+
+![Interactive Month Filter](PhonePe%20Dashboard%20Analysis%20Screenshots/Interactive%20Month%20Filter.png.png)
+
+![March Transaction Analysis](PhonePe%20Dashboard%20Analysis%20Screenshots/March%20Transaction%20Analysis.png.png)
+
+![Payment Status Slicer](PhonePe%20Dashboard%20Analysis%20Screenshots/Payment%20Status%20Slicer.png.png)
+
+![Report Design Workspace](PhonePe%20Dashboard%20Analysis%20Screenshots/Report%20Design%20Workspace.png.png)
+
+![Service Wise Transaction Analysis](PhonePe%20Dashboard%20Analysis%20Screenshots/Service%20Wise%20Transaction%20Analysis.png.png)
 
 ##  Author
 Ratiram Sharma
